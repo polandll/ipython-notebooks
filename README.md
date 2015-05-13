@@ -1,6 +1,6 @@
 # ipython-notebooks
 ipython notebooks includes Getting Started instructions for using DataStax Enterprise (DSE) with Spark and ipython notebooks. Check out the "Using ipython notebook..." file
-that applies to your OS. 
+that applies to your OS. There is one for Mac OS X, and one for Ubuntu. 
 
 Use the ipynb files if you already have ipython set up, because they will be interactive.
 
